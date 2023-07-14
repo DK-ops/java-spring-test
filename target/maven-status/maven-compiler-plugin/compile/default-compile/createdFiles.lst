@@ -1,0 +1,5 @@
+com\example\springboot\AuthController.class
+com\example\springboot\UserRepository.class
+com\example\springboot\Application.class
+com\example\springboot\User.class
+com\example\springboot\AuthController$LoginRequest.class
